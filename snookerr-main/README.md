@@ -1,2 +1,2 @@
-# snookerr
-i have developed website for snooker club
+# Snooker
+I have developed a website for a snooker club
